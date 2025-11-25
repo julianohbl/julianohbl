@@ -35,13 +35,13 @@ I seek to collaborate with teams that value technical excellence, continuous imp
 ## 🚀 Featured Projects
 
 <a href="https://github.com/julianohbl/nestjs-cinema">
-  <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=julianohbl&repo=nestjs-cinema&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=julianohbl&repo=nestjs-cinema&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 <a href="https://github.com/projeto-integrador-comp/doc_express_FrontEnd">
-  <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=projeto-integrador-comp&repo=doc_express_FrontEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=projeto-integrador-comp&repo=doc_express_FrontEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 <a href="https://github.com/projeto-integrador-comp/doc_express_BackEnd">
-  <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=projeto-integrador-comp&repo=doc_express_BackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=projeto-integrador-comp&repo=doc_express_BackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
 ---
